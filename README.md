@@ -5,9 +5,13 @@ this program is a simple CRUD APPLICATION. This program allows you to save, dele
 
 
 TECH STACK:
+
 -JAVA
+
 -SPRINGBOOT
+
 -POSTGRES
+
 -DOCKER
 
 
